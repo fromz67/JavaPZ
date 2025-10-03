@@ -3,6 +3,12 @@ package org.lab2;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Тип: StringBuffer
+ *
+ * Дія: В усіх питальних реченнях заданого тексту знайти та надрукувати без повторень слова заданої довжини
+ */
+
 public class Main {
 
     private static boolean equalsContent(StringBuffer a, StringBuffer b) {
